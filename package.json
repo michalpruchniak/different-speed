@@ -12,7 +12,7 @@
   "author": "Marcin Krzemiński",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.7",
+    "browser-sync": "^2.18.8",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
@@ -24,7 +24,7 @@
     "gulp-imagemin": "^3.1.1",
     "gulp-sass": "^2.3.2",
     "gulp-sourcemaps": "^2.4.1",
-    "gulp-uglify": "^2.0.1",
+    "gulp-uglify": "^2.1.0",
     "run-sequence": "^1.2.2"
   }
 }
